@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed10239a.css",
+    "main.js": "/static/js/main.d96ca1a6.js",
+    "static/media/google.svg": "/static/media/google.9a7800d06783d80a1c12.svg",
+    "static/media/apple.svg": "/static/media/apple.ae2395b7cbaac9e9671d.svg",
+    "index.html": "/index.html",
+    "main.ed10239a.css.map": "/static/css/main.ed10239a.css.map",
+    "main.d96ca1a6.js.map": "/static/js/main.d96ca1a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed10239a.css",
+    "static/js/main.d96ca1a6.js"
+  ]
+}
